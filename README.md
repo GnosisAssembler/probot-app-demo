@@ -1,6 +1,6 @@
 # probot-app-demo
 
-> A GitHub App built with [Probot](https://probot.github.io) that A github app demo using probot.
+> A GitHub App built with [Probot](https://probot.github.io).
 
 ## Setup
 
