@@ -1,4 +1,4 @@
-# probot-app-demo
+# Probot-app-demo
 
 > A GitHub App built with [Probot](https://probot.github.io).
 
