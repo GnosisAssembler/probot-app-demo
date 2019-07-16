@@ -1,10 +1,16 @@
-# Probot-app-demo
+# probot-app-demo
 
-> A GitHub App built with [Probot](https://probot.github.io).
+![project template](https://img.shields.io/badge/project-template-blue.svg?style=flat-square)
+
+> A github app template using [Probot](https://probot.github.io).
 
 ## Setup
 
 ```sh
+# Clone repo 
+git clone https://github.com/pankaryp/probot-app-demo.git
+cd probot-app-demo
+
 # Install dependencies
 npm install
 
